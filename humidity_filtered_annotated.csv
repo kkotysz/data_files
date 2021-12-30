@@ -1,4 +1,4 @@
-#datatype time,measurement,measurement
+# datatype time,measurement,measurement
 Time,Temperature,Humidity
 2021-12-28 22:19:01,18.7,30.5
 2021-12-28 22:20:05,18.7,30.5
