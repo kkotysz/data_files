@@ -1,4 +1,4 @@
-#datatype dateTime:RFC3339,double,double
+#datatype,dateTime:RFC3339,double,double
 Time,Temperature,Humidity
 2021-12-28 22:29:07,18.8,30.6
 2021-12-28 22:30:12,18.8,30.6
