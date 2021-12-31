@@ -1,5 +1,6 @@
 #group,true,true,true
 #datatype,dateTime:RFC3339,double,double
+#default,_Time,,
 ,Time,Temperature,Humidity
 ,2021-12-28T23:21:02,18.8,30.8
 ,2021-12-28T23:22:01,18.8,30.8
